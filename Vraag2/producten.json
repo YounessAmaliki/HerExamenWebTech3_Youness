@@ -1,0 +1,9 @@
+[{
+   "naam": "PS4",
+   "producent": "Sony",
+   "prijs": "50"
+}, {
+   "naam": "Xbox",
+   "producent": "Microsoft",
+   "prijs": "5"
+}]
