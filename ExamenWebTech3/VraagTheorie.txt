@@ -1,0 +1,12 @@
+3/ Beschrijf in je eigen woorden wat een web service is (2 punten). 
+
+WebServices is in het leven gekomen om verschillende systemen met elkaar te laten communiceren ongeachte op welke OS of programmeertaal.
+Dit is allemaal mogelijk omdat het feitelijk collectie is van open standards en protocols.
+
+
+Leg ook uit wat het verband is met Service Oriented Architecture (1 punt)
+
+SOA oftwel service oriented architecture, zoals het naam al zegt is SOA een architectur die verschillende systemen met elkaar combineren om
+groter taak uit te voeren, dus dat betekent dat een web service basis onderdeel is in een SOA, wanneer er meerdere web services samensmelten dan hebben we SOA applicatie
+
+

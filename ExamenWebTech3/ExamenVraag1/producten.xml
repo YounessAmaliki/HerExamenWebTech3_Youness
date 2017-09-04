@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+  <producten>
+    <product naamKlant="Jones" datumBestelling="19/04/2017" id="1" naamProduct="Router" hoeveelheid="2">
+      <opmerking>Snel</opmerking>
+    </product>
+    <product naamKlant="Bart" datumBestelling="19/06/2017" id="2" naamProduct="PS4" hoeveelheid="15">
+      <opmerking>op gemak</opmerking>
+    </product>
+  </producten>
